@@ -1,72 +1,81 @@
 <h1 align="center">Hey there 👋, I'm Sardar Ahmad Ali</h1>
-<h3 align="center">🚀 Cybersecurity Student | Ethical Hacker | Security Tool Developer</h3>
+<h3 align="center">🚀 Aspiring Cybersecurity Professional | Ethical Hacker | Security Automation Enthusiast</h3>
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/ahmadali66/ahmadali66/main/profile-header-boy-pitbull.png" width="500" alt="Cyber Boy with Pitbull" />
+  <img src="https://media.giphy.com/media/LMcB8XospGZO8UQq87/giphy.gif" width="300"/>
 </p>
 
 ---
 
-### 🔐 About Me
+### 👨‍💻 About Me
 
-🎓 Cybersecurity student at *Air University, Islamabad*  
-💡 Passionate about ethical hacking, secure software systems, and red teaming.  
-🛠 Building custom security tools and learning real-world exploitation through CTFs.  
-🌐 Focused on solving modern cyber threats with automation and creative thinking.
+🔐 I'm a *Cybersecurity undergraduate at Air University, Islamabad*, with a strong foundation in:
 
----
+- Ethical Hacking & Capture The Flag (CTF) Challenges
+- Custom Firewall Development & Packet Filtering
+- Security Automation Tools with GUI in *C#*
+- Keylogger & Steganography Prototype Building
+- Virtual Machine Isolation, Network Defense, and Windows Security Internals
 
-### 🧠 Core Skills
-
-- *Offensive Security*: Vulnerability Assessment, Pen Testing, CTFs, Metasploit
-- *System Defense*: Packet Filtering, Custom Firewalls, User Monitoring
-- *Languages & Tools*: C#, C++, Bash, Nmap, Wireshark, Visual Studio
-- *Security Environments*: Windows Security Internals, Virtual Machines, Packet Analysis
-- *Soft Skills*: Team Leadership, Strategic Thinking, Event Coordination
+🛡 My goal is to *build smarter defense systems* and contribute to *open-source cybersecurity tools* that protect real-world digital ecosystems.
 
 ---
 
-### ⚙ Projects
+### 🧠 Core Competencies
 
-| 💡 Project | 🔧 Tech Stack | 📄 Summary |
-|-----------|---------------|-----------|
-| *CTF Challenges* | Metasploit, Burp Suite | Exploited insecure apps, cracked binaries, captured flags |
-| *GUI Firewall* | C#, .NET | Custom packet firewall with rule-based controls |
-| *Keylogger Prototype* | C++ | Forensic key logging simulation and mitigation research |
-| *Steganography* | Python | Concealed & extracted data inside images |
+- *Offensive Security*: Vulnerability Analysis, Pen Testing, CTF Tactics, Metasploit, Bash
+- *System Defense*: Custom Firewalls, User Behavior Monitoring, Event Logging
+- *Programming Languages & Tools*: C#, C++, Bash, Nmap, Wireshark, Visual Studio
+- *Security Environments*: Packet Inspection, VM Sandbox Analysis, Windows Internals
+- *Soft Skills*: Team Leadership, Event Management, Strategic Planning
+
+---
+
+### 🔥 Projects
+
+| 🛠 Project | ⚙ Tech Stack | 🔍 Description |
+|------------|---------------|----------------|
+| *CTF Challenges* | Metasploit, Bash, Burp Suite | Exploited vulnerable services, cracked binaries, reverse engineered targets |
+| *Custom Packet Firewall (GUI)* | C#, WinForms | Built a real-time network traffic blocker with UI-based rule control |
+| *Keylogger (Controlled Use)* | C++ | Demonstrated risks of data capture and implemented countermeasures |
+| *Image Steganography Tool* | Python, PIL | Embedded & extracted hidden data in images to understand secrecy protocols |
 
 <p align="center">
-  <img src="https://media.giphy.com/media/VbnUQpnihPSIgIXuZv/giphy.gif" width="200"/>
+  <img src="https://media.giphy.com/media/VbnUQpnihPSIgIXuZv/giphy.gif" width="250"/>
 </p>
 
 ---
 
-### 🏆 Achievements & Leadership
+### 🎓 Education
 
-- 💼 *Co-Lead*, Cyber Security Society @ Air University
-- 🧳 *Trip Coordinator*, managed full-class logistics for university event
-- 🎱 *Champion*, Air Nexus Snooker Tournament
+🎓 *BS in Cybersecurity*  
+📍 Air University, Islamabad
 
----
-
-### 📊 Business & Communication Skills
-
-- Strategic Thinking & Client Engagement
-- Market Analysis for Software Startups
-- Persuasive Communication & Negotiation
+📘 *Intermediate (Pre-Engineering)*  
+📍 FG College, Kotli
 
 ---
 
-### 📚 Education
+### 🏆 Leadership & Activities
 
-- *BS Cybersecurity*  
-  Air University, Islamabad  
-- *Intermediate (Pre-Engineering)*  
-  FG College, Kotli
+- 🎯 *Co-Lead, Cyber Security Society* – Led workshops, events, and operations.
+- 🗺 *Trip Coordinator, Air University* – Managed logistics & permissions independently.
+- 🎱 *Champion, Snooker Tournament @ Air Nexus* – Demonstrated agility and strategic mindset.
 
 ---
 
-### 📬 Contact Me
+### 💼 Business Skills
+
+While pursuing cybersecurity, I also honed real-world business abilities:
+
+- 📈 Business Development & Strategic Planning
+- 🤝 Client Relationship Management
+- 🧠 Market & Competitor Analysis
+- 🗣 Communication & Negotiation
+
+---
+
+### 📫 Connect With Me
 
 - 🔗 [LinkedIn](https://www.linkedin.com/in/ahmad-ali-498131295)
 - 📧 ahmad.anonymous.66@gmail.com
@@ -78,5 +87,5 @@
   <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="300" />
 </p>
 
-> 💻 Learn. Hack. Build. Secure.  
-> 🧠 Every line of code is a shield or a sword.
+> ⚡ Let's break into systems – ethically.  
+> 🧠 Learn. Hack. Secure. Repeat.
